@@ -21,10 +21,14 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
 ## Benefits
 
-* Improved Customer Engagement
-* Easy Customer Information Gathering
-* Guest Orders to Customers Conversion
-* Improved Customer Database
+* [Convert Guests to Customers Automatically](https://github.com/magefan/magento2-convert-guest-to-customer#convert-guests-to-customers-automatically)
+* [Choose Specific Orders and Convert Them to Customers](https://github.com/magefan/magento2-convert-guest-to-customer#choose-specific-orders-and-convert-them-to-customers)
+* [Assign Guest Orders to Existing Customer](https://github.com/magefan/magento2-convert-guest-to-customer#assign-guest-orders-to-existing-customer)
+* [Let Customers Assign Guest Orders](https://github.com/magefan/magento2-convert-guest-to-customer#let-customers-assign-guest-orders)
+* [Transfer Orders to Different Customer Accounts](https://github.com/magefan/magento2-convert-guest-to-customer#transfer-orders-to-different-customer-accounts)
+* [Convert Old Guest Orders to Customers](https://github.com/magefan/magento2-convert-guest-to-customer#convert-old-guest-orders-to-customers)
+* [Send New Account Email Notification](https://github.com/magefan/magento2-convert-guest-to-customer#send-new-account-email-notification)
+* [Comply with the GDPR Policies](https://github.com/magefan/magento2-convert-guest-to-customer#comply-with-the-gdpr-policies)
 
 ## Features
 ### Convert Guests to Customers Automatically
