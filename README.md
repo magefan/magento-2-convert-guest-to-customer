@@ -1,17 +1,23 @@
 # [Magento 2 Guest to Customer](https://magefan.com/magento2-convert-guest-to-customer) by Magefan
 
-<a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
-
-<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
-
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-convert-guest-to-customer.webp">
 
-[Magento 2 Guest to Customer](https://magefan.com/magento2-convert-guest-to-customer) is the extension that helps you to improve your customers experience and collect more customer information while allowing guest checkout. This module allows you to convert guest orders to customer accounts in one click or configure the automatic guest to customer conversion.
+[Magento 2 Guest to Customer](https://magefan.com/magento2-convert-guest-to-customer) is the extension that allows you to convert guest orders to customers both manually and automatically. It helps you improve customer retention and increase your customer base.
 
-<a href="https://magefan.com/magento2-convert-guest-to-customer"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento2-convert-guest-to-customer#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+Stay in touch with your customers even after the guest checkout. A few simple settings are all it takes!
 
-## Requirements
-  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
+
+<img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
+<a href="https://magefan.com/magento2-convert-guest-to-customer"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/contact?question=request-free-trial&product_id=1813#contact-form-fields"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/free-trial.png"> 
+
+## Useful Links
+  * [User Guide](https://magefan.com/magento2-convert-guest-to-customer/documentation)
+  * [Change Log](https://magefan.com/magento2-convert-guest-to-customer/change-log)
+  * [FAQs](https://magefan.com/magento2-convert-guest-to-customer#pattr-faq)
+
+## Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
 
 ## Benefits
 
@@ -21,64 +27,80 @@
 * Improved Customer Database
 
 ## Features
-### Assign Guest Order to Customer
+### Convert Guests to Customers Automatically
+As a store owner, you definitely don’t want to lose customers after a single purchase. So, this Magento 2 Guest to Customer extension allows you to retain customers after they place a guest order.
 
-To avoid the accounts duplication issues Magento 2 Convert Guest to Customer extension does not create a new account while converting guest order to customer in case a guest order was placed using the existing user’s email. The guest order is assigned to the existing customer together with shipping and billing addresses. 
-
-Even if the customer sets different email addresses placing an order as guest and as customer, you can still assign the guest order to customer manually or even change order customer.
-
-### Creation of New Customer Account
-
-In case someone places an order with the unregistered email Magento 2 Guest to Customer extension creates a customer account automatically. It also assigns and marks new customer billing and shipping addresses as default.
+You just need to enable the automatic conversion, select what order status to convert guests to customers on, and specify the customer group to assign them to. That’s about it! From now on, all guest orders will be automatically converted to customers.
 
 <p align="center">
-  <img src="https://cm.magefan.com/mf_webp/png/media/catalog/guest-to-customer-in-magento-2.webp">
+  <img src="https://cm.magefan.com/wysiwyg/products/magento-2-guest-to-customer.png">
 </p>
 
-### Change Customer
+### Choose Specific Orders and Convert Them to Customers
+When it comes to converting guests to customers, it doesn’t have to be all or nothing. This is why, you should have a chance to convert only specific orders.
 
-The extension assigns guest orders to customer accounts and uses the order details to fill in new customer account information. However, Magento 2 Guest to Customer extension also allows you to change order customer in one click if needed.
+Magefan Guest to Customer extension allows you to do just that. You can opt for the manual conversion and convert only specific orders by pressing a corresponding button. This button is available in the order grid, shipments, invoices, and credit memos.
+
+So, you can convert guests to customers at any order processing stage.
 
 <p align="center">
-  <img src="https://cm.magefan.com/mf_webp/png/media/catalog/change-order-customer-in-magento-2.webp">
+  <img src="https://cm.magefan.com/wysiwyg/products/convert-guest-to-customer-in-magento.png">
 </p>
 
-### Automatically Convert Guest To Customer
+### Assign Guest Orders to Existing Customer
+Your existing customers may not always be logged in and place a guest order without realizing it. This is not an issue for the Magento 2 Guest to Customer Extension since it uses an email as an identifier.
 
-Guest to Customer module allows you to convert guest orders to customers manually clicking the “Convert Guest to Customer” button. However there is also an option to set up the automatic conversion so that when there is a guest order placed on your store it is automatically converted to the customer account.
+If the order was placed using the existing customer’s email, the guest order will be assigned to it automatically. The extension creates new accounts for the unique email addresses only. At the same time, you can still assign guest orders to specific customers if needed.
 
 <p align="center">
-  <img src="https://cm.magefan.com/mf_webp/png/media/catalog/convert-guest-to-customer-automatically-in-magento-2_1.webp">
+  <img src="https://cm.magefan.com/wysiwyg/products/magento-customers-emails.png">
 </p>
 
-### Converting Old Guest Orders
+### Let Customers Assign Guest Orders
 
-If you have just felt the need to convert guest orders to customer accounts to improve your customers data and update the information you can convert all of your old guest orders to customers at once.
+To make this even more efficient, you can allow your customers to assign orders they placed as guests to their accounts. They don’t have to contact you and go the extra mile but click one button to have this settled.
+
+If customers placed any guest orders, the extension will notify them about it in their accounts. Then, they can press one button to have all their orders neatly arranged in one account.
 
 <p align="center">
-  <img src="https://cm.magefan.com/mf_webp/png/media/catalog/convert-all-guest-orders-to-customers-magento-2.webp">
+  <img src="https://cm.magefan.com/wysiwyg/products/assign-guest-orders-to-customer-accounts-magento.png">
 </p>
 
-### New Account Email and Password
+### Transfer Orders to Different Customer Accounts
 
-During the guest to customer conversion billing,shipping and email addresses are assigned to the customer account. New customers receive a notification about an account creation with the link to reset the password.
+The more flexible your customer service is, the better. Thus, you should also be able to transfer orders to different accounts if, for example, a customer used a wrong account or there’s a corporate account all orders have to be assigned to.
 
-### GDPR Compliance
+The Magento 2 Guest to Customer module allows you to change a customer assigned to an order. Just in a few clicks, you can move an order to a different customer without any extra hassle for the customer or you. That’s a win-win for sure!
 
-Magento 2 Convert Guest to Customer extension complies with the General Data Protection Regulation laws since it operated within the Magento database exclusively. No customer data is shared, publicized, or used for a subscription so correspondingly no violations are caused.
+<p align="center">
+  <img src="https://cm.magefan.com/wysiwyg/products/magento-2-change-order-customer.png">
+</p>
 
-## Documentation
+### Convert Old Guest Orders to Customers
 
-**General**
-* [How to install Magento 2 Guest to Customer Extension?](https://magefan.com/blog/magento2-convert-guest-to-customer-extension-installation)
-* [How to update Magento 2 Guest to Customer Extension?](https://magefan.com/blog/update-magefan-convert-guest-to-customer-extension)
-* [How to uninstall Magento 2 Guest to Customer Extension?](https://magefan.com/blog/uninstall-magento2-convert-guest-to-customer-extension)
+If having lots of guest orders doesn’t fit into your strategy, the Magento 2 Guest to Customer extension has a solution.
 
-**Configuration**
-* [How to Configure Magento 2 Convert Guest to Customer Extension?](https://magefan.com/magento2-convert-guest-to-customer/configuration)
-* [How to Convert Guest to Customer in Magento 2?](https://magefan.com/blog/magento2-convert-guest-to-customer)
-* [How to Change Order Customer in Magento 2?](https://magefan.com/magento2-convert-guest-to-customer/how-to-change-order-customer-in-magento2)
-* [How to Convert all Old Guest Orders into Customer Accounts?](https://magefan.com/magento2-convert-guest-to-customer/how-to-convert-all-old-orders-into-customers)
+It allows you to convert all your old guest orders into customers. You can do it in the admin panel or run a CLI command. In any case, it’s a simple task that doesn’t require too much effort.
+
+<p align="center">
+  <img src="https://cm.magefan.com/wysiwyg/products/convert-all-old-guest-orders-to-customers-in-magento.png">
+</p>
+
+### Send New Account Email Notification
+
+There is another point you shouldn’t miss. You have to keep your customers posted on all the operations and let them know a new account was created for them.
+
+The Magento 2 Guest to Customer extension sends new customers a “Welcome Email” once they are converted. The email also includes a reset password link so your customers can go and set their account passwords.
+
+<p align="center">
+  <img src="https://cm.magefan.com/wysiwyg/products/convert-guest-to-customer-welcome-email-magento.png">
+</p>
+
+### Comply with the GDPR Policies
+
+Magento 2 Guest to Customer extension complies with the General Data Protection Regulation laws since it operates within the Magento database exclusively. 
+
+The customer data is merely reorganized and not shared, disclosed, or unwillingly used for subscription purposes. Thus, the extension’s functionality is fully compatible with the GDPR policies.
 
 ## Video Reference
 
@@ -110,7 +132,7 @@ Try out our open demo and if you like our extension **please give us some star o
       <td align="center" valign="middle">
         <a href="https://lac.demo.magefan.top/admin/admin/">
           <img
-            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
+            src="https://cs.magefan.com/version1732118579/frontend/Magefan/next/en_US/Magefan_CssOptimizer/images/product-tab-demo-2.jpg"
             alt="Magento 2 Guest to Customer Extension Admin Panel Demo"
             height="220"
           >
